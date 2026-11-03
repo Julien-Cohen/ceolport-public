@@ -1,1 +1,3 @@
-# ceolport-public
+# CeolPort (formerly MyTunes)
+This is the home page of the CeolPort app (formerly MyTunes).
+If you need more information, check the Apple App Store page of the app, check the Google Play Store page of the app, or send us an e-mail at julienco.apps@gmail.com . 
